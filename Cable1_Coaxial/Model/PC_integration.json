@@ -1,0 +1,34 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "diam_feed",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "L",
+         "type": "float",
+         "value": 200.0
+      },
+      {
+         "name": "diam_teflon",
+         "type": "float",
+         "value": 4.0
+      },
+      {
+         "name": "espesor_jacket",
+         "type": "float",
+         "value": 0.8
+      },
+      {
+         "name": "espesor_shield",
+         "type": "float",
+         "value": 0.2
+      }
+   ],
+   "outputVariables": []
+}

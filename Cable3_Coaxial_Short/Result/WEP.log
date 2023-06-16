@@ -1,0 +1,44 @@
+{14968} >2023-05-16 15:38:03.00402< matrixcalc_AMD64 @ 05V307: 1xN000:  Discrete port: 1
+{14968} >2023-05-16 15:38:03.00403< matrixcalc_AMD64 @ 05V307: 1xN000:  # edges: 2
+{14968} >2023-05-16 15:38:03.00403< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0, point: 15327
+{14968} >2023-05-16 15:38:03.00403< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0, wire ends: (0.62 | 0.00 | 0.00)
+{14968} >2023-05-16 15:38:03.00404< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0, pos (0.62 | 0.00 | 0.00)
+{14968} >2023-05-16 15:38:03.00404< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0 is at boundary: 0
+{14968} >2023-05-16 15:38:03.00405< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0 is inside PEC
+{14968} >2023-05-16 15:38:03.00405< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1, point: 15329
+{14968} >2023-05-16 15:38:03.00406< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1, wire ends: (2.00 | 0.00 | 0.00)
+{14968} >2023-05-16 15:38:03.00406< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1, pos (2.00 | 0.00 | 0.00)
+{14968} >2023-05-16 15:38:03.00407< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1 is at boundary: 0
+{14968} >2023-05-16 15:38:03.00407< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1 is inside PEC
+{14968} >2023-05-16 15:38:03.00407< matrixcalc_AMD64 @ 05V307: 1xN000:  # endings: 2, # corrected: 0, not corrected: 0
+{14968} >2023-05-16 15:38:03.00408< matrixcalc_AMD64 @ 05V307: 1xN000:  connection state of ending 0: 1
+{14968} >2023-05-16 15:38:03.00408< matrixcalc_AMD64 @ 05V307: 1xN000:  connection state of ending 1: 1
+
+
+{9200} >2023-05-16 15:38:04.00069< matrixcalc_AMD64 @ 05V307: 1xN001:  Discrete port: 1
+{9200} >2023-05-16 15:38:04.00069< matrixcalc_AMD64 @ 05V307: 1xN001:  # edges: 0
+
+
+{15180} >2023-05-16 15:38:04.00204< matrixcalc_AMD64 @ 05V307: 1xN002:  Discrete port: 1
+{15180} >2023-05-16 15:38:04.00204< matrixcalc_AMD64 @ 05V307: 1xN002:  # edges: 0
+
+
+{14164} >2023-05-16 15:38:03.00536< matrixcalc_AMD64 @ 05V307: 1xN003:  Discrete port: 1
+{14164} >2023-05-16 15:38:03.00537< matrixcalc_AMD64 @ 05V307: 1xN003:  # edges: 0
+{14164} >2023-05-16 15:38:03.00538< matrixcalc_AMD64 @ 05V307: 1xN003:  Wire: Folder1:wire1
+{14164} >2023-05-16 15:38:03.00538< matrixcalc_AMD64 @ 05V307: 1xN003:  # edges: 4
+{14164} >2023-05-16 15:38:03.00538< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 0, point: 16228
+{14164} >2023-05-16 15:38:03.00539< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 0, wire ends: (0.00 | 0.00 | 0.00)
+{14164} >2023-05-16 15:38:03.00539< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 0, pos (2.00 | 200.00 | 0.00)
+{14164} >2023-05-16 15:38:03.00540< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 0 is at boundary: 0
+{14164} >2023-05-16 15:38:03.00540< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 0 is inside PEC
+{14164} >2023-05-16 15:38:03.00541< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 1, point: 16226
+{14164} >2023-05-16 15:38:03.00541< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 1, wire ends: (0.00 | 0.00 | 0.00)
+{14164} >2023-05-16 15:38:03.00541< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 1, pos (0.62 | 200.00 | 0.00)
+{14164} >2023-05-16 15:38:03.00542< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 1 is at boundary: 0
+{14164} >2023-05-16 15:38:03.00542< matrixcalc_AMD64 @ 05V307: 1xN003:  ending 1 is inside PEC
+{14164} >2023-05-16 15:38:03.00543< matrixcalc_AMD64 @ 05V307: 1xN003:  # endings: 2, # corrected: 0, not corrected: 0
+{14164} >2023-05-16 15:38:03.00543< matrixcalc_AMD64 @ 05V307: 1xN003:  connection state of ending 0: 1
+{14164} >2023-05-16 15:38:03.00543< matrixcalc_AMD64 @ 05V307: 1xN003:  connection state of ending 1: 1
+
+

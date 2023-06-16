@@ -1,0 +1,33 @@
+{
+    "parameters": [
+        {
+            "descr": "Diámetro del conductor interno",
+            "expr": "1",
+            "name": "diam_feed",
+            "value": "1"
+        },
+        {
+            "descr": "Longitud del cable coaxial",
+            "expr": "200",
+            "name": "L",
+            "value": "200"
+        },
+        {
+            "descr": "Diámetro del Teflón",
+            "expr": "4",
+            "name": "diam_teflon",
+            "value": "4"
+        },
+        {
+            "expr": "0.8",
+            "name": "espesor_jacket",
+            "value": "0.8"
+        },
+        {
+            "expr": "0.2",
+            "name": "espesor_shield",
+            "value": "0.2"
+        }
+    ],
+    "version": 1
+}

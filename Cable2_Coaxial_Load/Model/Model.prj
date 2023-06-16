@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2023.3 - Feb 23 2023 - ACIS 32.0.1 -
+[Author]
+telecomunicaciones
+[Mesh Cells]
+108,192
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:cable2_coaxial_load.cst?402b3a9767bd2528e2b544d935b82fc1?23448:numberofparameters=6:port=1>mode=1>zre=0>zim=0:::l?r?diam_feed?diam_teflon?espesor_jacket?espesor_shield
+[Comment]

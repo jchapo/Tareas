@@ -1,0 +1,35 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       s
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 03:38 PM Friday, 16. June 2023
+
+  Evaluating 'e-field (f=2.4) (1)_X (Y)': 1.281 s
+
+  Total time: 1 s  ( = 0 h, 0 m, 1 s )
+
+Template based post-processing finished at: 03:38 PM Friday, 16. June 2023
+----------------------------------------------------------------------------------------
+Template based post-processing started at: 05:20 PM Friday, 16. June 2023
+
+  Evaluating 'e-field (f=2.4) (1)_X (Y)': 0.822 s
+
+  Total time: 0 s  ( = 0 h, 0 m, 0 s )
+
+Template based post-processing finished at: 05:20 PM Friday, 16. June 2023
+----------------------------------------------------------------------------------------
+Template based post-processing started at: 05:25 PM Friday, 16. June 2023
+
+  Evaluating 'e-field (f=2.4) (1)_X (Y)': 0.511 s
+
+  Total time: 0 s  ( = 0 h, 0 m, 0 s )
+
+Template based post-processing finished at: 05:25 PM Friday, 16. June 2023
+----------------------------------------------------------------------------------------

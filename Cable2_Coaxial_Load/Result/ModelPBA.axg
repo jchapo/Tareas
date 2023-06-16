@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Lumped Elements\Folder1:element1" id="5">
+      <FatArrow position="8.03674456e-17 200 -0.96875" direction="0 0 -1" dimension="10 10 10" material="$WireMaterial$" text="element1" short="element1"/>
+      <LineSet points="8.03674456e-17 200 -0.625 8.03674456e-17 200 -1.3125 8.03674456e-17 200 -1.3125 8.03674456e-17 200 -2" stripped="1" material="$WireMaterial$"/>
+      <LineSet points="8.03674456e-17 200 -0.625 8.03674456e-17 200 -1.3125" stripped="1" material=""/>
+    </Object>
+    <Object name="Ports\port1" id="6">
+      <Cone position="8.03674456e-17 0 0.96875" direction="0 0 -1" dimension="10 10 10" material="$PortMaterial$" text="1" short="1"/>
+      <LineSet points="8.03674456e-17 0 2 8.03674456e-17 0 1.3125 8.03674456e-17 0 1.3125 8.03674456e-17 0 0.625" stripped="1" material="$WireMaterial$"/>
+      <LineSet points="8.03674456e-17 0 1.3125 8.03674456e-17 0 0.625" stripped="1" material=""/>
+    </Object>
+  </Objects>
+  <Materials/>
+  <Groups/>
+</CSTAuxiliaryGeometry>

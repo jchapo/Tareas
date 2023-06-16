@@ -1,0 +1,29 @@
+{8568} >2023-05-16 16:02:30.00407< matrixcalc_AMD64 @ 05V307: 1xN000:  Discrete port: 1
+{8568} >2023-05-16 16:02:30.00407< matrixcalc_AMD64 @ 05V307: 1xN000:  # edges: 2
+{8568} >2023-05-16 16:02:30.00408< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0, point: 18545
+{8568} >2023-05-16 16:02:30.00408< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0, wire ends: (0.00 | 0.00 | 2.00)
+{8568} >2023-05-16 16:02:30.00409< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0, pos (0.00 | 0.00 | 2.00)
+{8568} >2023-05-16 16:02:30.00409< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0 is at boundary: 0
+{8568} >2023-05-16 16:02:30.00410< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 0 is inside PEC
+{8568} >2023-05-16 16:02:30.00410< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1, point: 16399
+{8568} >2023-05-16 16:02:30.00410< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1, wire ends: (0.00 | 0.00 | 0.62)
+{8568} >2023-05-16 16:02:30.00411< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1, pos (0.00 | 0.00 | 0.62)
+{8568} >2023-05-16 16:02:30.00411< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1 is at boundary: 0
+{8568} >2023-05-16 16:02:30.00412< matrixcalc_AMD64 @ 05V307: 1xN000:  ending 1 is inside PEC
+{8568} >2023-05-16 16:02:30.00412< matrixcalc_AMD64 @ 05V307: 1xN000:  # endings: 2, # corrected: 0, not corrected: 0
+{8568} >2023-05-16 16:02:30.00412< matrixcalc_AMD64 @ 05V307: 1xN000:  connection state of ending 0: 1
+{8568} >2023-05-16 16:02:30.00412< matrixcalc_AMD64 @ 05V307: 1xN000:  connection state of ending 1: 1
+
+
+{13912} >2023-05-16 16:02:31.00378< matrixcalc_AMD64 @ 05V307: 1xN001:  Discrete port: 1
+{13912} >2023-05-16 16:02:31.00379< matrixcalc_AMD64 @ 05V307: 1xN001:  # edges: 0
+
+
+{7972} >2023-05-16 16:02:31.00374< matrixcalc_AMD64 @ 05V307: 1xN002:  Discrete port: 1
+{7972} >2023-05-16 16:02:31.00375< matrixcalc_AMD64 @ 05V307: 1xN002:  # edges: 0
+
+
+{14904} >2023-05-16 16:02:30.00562< matrixcalc_AMD64 @ 05V307: 1xN003:  Discrete port: 1
+{14904} >2023-05-16 16:02:30.00562< matrixcalc_AMD64 @ 05V307: 1xN003:  # edges: 0
+
+

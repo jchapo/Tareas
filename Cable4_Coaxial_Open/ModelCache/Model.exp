@@ -1,0 +1,13 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+L
+200
+diam_feed/2#
+0.625
+diam_teflon/2#
+2
+diam_teflon/2#+espesor_shield
+2.2
+diam_teflon/2#+espesor_shield+espesor_jacket
+3
+@LONG

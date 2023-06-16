@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928" creator="modeler">
+  <Objects>
+    <Object name="Lumped Elements\Folder1:element1" id="5">
+      <FatArrow position="1.60734891e-16 200 -1.3125" direction="1.68388932e-16 0 -1.375" dimension="10 10 10" material="$WireMaterial$" text="Folder1:element1" short="element1"/>
+      <LineSet points="7.6540425e-17 200 -0.625 2.44929371e-16 200 -2" stripped="1" material="$WireMaterial$"/>
+    </Object>
+    <Object name="Ports\port1" id="6">
+      <Cone position="0 0 1.3125" direction="0 0 -1.375" dimension="10 10 10" material="$PortMaterial$" text="1" short="1"/>
+      <LineSet points="0 0 2 0 0 0.625" stripped="1" material="$WireMaterial$"/>
+    </Object>
+  </Objects>
+  <Materials/>
+  <Groups/>
+</CSTAuxiliaryGeometry>

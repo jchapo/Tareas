@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Folder1:wire1" id="2">
+      <LineSet points="2 200 8.03674456e-17 2 200 0.625 2 200 0.625 1 200 0.625 1 200 0.625 1 200 8.03674456e-17 1 200 8.03674456e-17 0.625 200 8.03674456e-17" stripped="1" material="$WireMaterial$"/>
+    </Object>
+    <Object name="Connected" id="1">
+      <PointSet points="0.625 0 8.03674456e-17 2 0 8.03674456e-17 0.625 200 8.03674456e-17 2 200 8.03674456e-17" material="$00f219"/>
+    </Object>
+  </Objects>
+  <Materials>
+    <Material name="$00f219">
+      <Drawstyle color="0 0.949019611 0.0980392173" transparency="0" linestrength="3"/>
+    </Material>
+  </Materials>
+  <Groups>
+    <Group name="Wire Endpoints" type="Undefined" ID="1">
+      <Item name="Connected" type="solid" id="1"/>
+    </Group>
+    <Group name="Wire Path" type="Undefined" ID="2">
+      <Item name="Folder1:wire1" type="solid" id="2"/>
+    </Group>
+  </Groups>
+</CSTAuxiliaryGeometry>

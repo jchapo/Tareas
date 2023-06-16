@@ -1,0 +1,19 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+1000#/377#
+2.6525198938992
+11000#/377#
+29.1777188328912
+L
+200
+R
+50
+diam_feed/2#
+0.625
+diam_teflon/2#
+2
+diam_teflon/2#+espesor_shield
+2.2
+diam_teflon/2#+espesor_shield+espesor_jacket
+3
+@LONG
