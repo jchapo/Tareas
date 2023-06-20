@@ -1,0 +1,50 @@
+{17124} >2023-05-19 17:34:28.00383< matrixcalc_AMD64 @ 01V306: 1xN000:  Discrete port: 1
+{17124} >2023-05-19 17:34:28.00383< matrixcalc_AMD64 @ 01V306: 1xN000:  # edges: 2
+{17124} >2023-05-19 17:34:28.00384< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 0, point: 15325
+{17124} >2023-05-19 17:34:28.00385< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 0, wire ends: (-0.50 | 0.00 | -0.00)
+{17124} >2023-05-19 17:34:28.00385< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 0, pos (-0.50 | 0.00 | -0.00)
+{17124} >2023-05-19 17:34:28.00385< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 0 is at boundary: 0
+{17124} >2023-05-19 17:34:28.00386< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 0 is inside PEC
+{17124} >2023-05-19 17:34:28.00386< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 1, point: 15323
+{17124} >2023-05-19 17:34:28.00387< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 1, wire ends: (-2.00 | 0.00 | -0.00)
+{17124} >2023-05-19 17:34:28.00387< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 1, pos (-2.00 | 0.00 | -0.00)
+{17124} >2023-05-19 17:34:28.00388< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 1 is at boundary: 0
+{17124} >2023-05-19 17:34:28.00388< matrixcalc_AMD64 @ 01V306: 1xN000:  ending 1 is inside PEC
+{17124} >2023-05-19 17:34:28.00388< matrixcalc_AMD64 @ 01V306: 1xN000:  # endings: 2, # corrected: 0, not corrected: 0
+{17124} >2023-05-19 17:34:28.00388< matrixcalc_AMD64 @ 01V306: 1xN000:  connection state of ending 0: 1
+{17124} >2023-05-19 17:34:28.00389< matrixcalc_AMD64 @ 01V306: 1xN000:  connection state of ending 1: 1
+{17124} >2023-05-19 17:34:28.00389< matrixcalc_AMD64 @ 01V306: 1xN000:  Discrete port: 2
+{17124} >2023-05-19 17:34:28.00390< matrixcalc_AMD64 @ 01V306: 1xN000:  # edges: 0
+
+
+{16216} >2023-05-19 17:34:29.00143< matrixcalc_AMD64 @ 01V306: 1xN001:  Discrete port: 1
+{16216} >2023-05-19 17:34:29.00144< matrixcalc_AMD64 @ 01V306: 1xN001:  # edges: 0
+{16216} >2023-05-19 17:34:29.00144< matrixcalc_AMD64 @ 01V306: 1xN001:  Discrete port: 2
+{16216} >2023-05-19 17:34:29.00145< matrixcalc_AMD64 @ 01V306: 1xN001:  # edges: 0
+
+
+{10116} >2023-05-19 17:34:29.00067< matrixcalc_AMD64 @ 01V306: 1xN002:  Discrete port: 1
+{10116} >2023-05-19 17:34:29.00068< matrixcalc_AMD64 @ 01V306: 1xN002:  # edges: 0
+{10116} >2023-05-19 17:34:29.00068< matrixcalc_AMD64 @ 01V306: 1xN002:  Discrete port: 2
+{10116} >2023-05-19 17:34:29.00069< matrixcalc_AMD64 @ 01V306: 1xN002:  # edges: 0
+
+
+{4012} >2023-05-19 17:34:28.00515< matrixcalc_AMD64 @ 01V306: 1xN003:  Discrete port: 1
+{4012} >2023-05-19 17:34:28.00515< matrixcalc_AMD64 @ 01V306: 1xN003:  # edges: 0
+{4012} >2023-05-19 17:34:28.00516< matrixcalc_AMD64 @ 01V306: 1xN003:  Discrete port: 2
+{4012} >2023-05-19 17:34:28.00516< matrixcalc_AMD64 @ 01V306: 1xN003:  # edges: 2
+{4012} >2023-05-19 17:34:28.00516< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 0, point: 16224
+{4012} >2023-05-19 17:34:28.00517< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 0, wire ends: (-0.50 | 200.00 | -0.00)
+{4012} >2023-05-19 17:34:28.00517< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 0, pos (-0.50 | 200.00 | -0.00)
+{4012} >2023-05-19 17:34:28.00517< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 0 is at boundary: 0
+{4012} >2023-05-19 17:34:28.00518< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 0 is inside PEC
+{4012} >2023-05-19 17:34:28.00518< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 1, point: 16222
+{4012} >2023-05-19 17:34:28.00518< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 1, wire ends: (-2.00 | 200.00 | -0.00)
+{4012} >2023-05-19 17:34:28.00519< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 1, pos (-2.00 | 200.00 | -0.00)
+{4012} >2023-05-19 17:34:28.00519< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 1 is at boundary: 0
+{4012} >2023-05-19 17:34:28.00520< matrixcalc_AMD64 @ 01V306: 1xN003:  ending 1 is inside PEC
+{4012} >2023-05-19 17:34:28.00520< matrixcalc_AMD64 @ 01V306: 1xN003:  # endings: 2, # corrected: 0, not corrected: 0
+{4012} >2023-05-19 17:34:28.00520< matrixcalc_AMD64 @ 01V306: 1xN003:  connection state of ending 0: 1
+{4012} >2023-05-19 17:34:28.00521< matrixcalc_AMD64 @ 01V306: 1xN003:  connection state of ending 1: 1
+
+

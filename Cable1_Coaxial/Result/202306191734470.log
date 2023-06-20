@@ -1,0 +1,41 @@
+
+              Logfile of Field Evaluation
+              ===========================
+
+Calculation window:
+===================
+
+ Coordinate System       : global (xyz)   cartesian
+ Dimension               : 1D
+ Direction (tangential)  : Y
+ Stepsize                : 0.1
+
+                 low        high    stepsize
+         ----------- ----------- -----------
+       X        1.06        1.06           1
+       Y          -0         200         0.1
+       Z          -0          -0           1
+
+Evaluated field, component and result value:
+============================================
+
+ Evaluated field         : E-Field\e-field (f=2.4) [1]
+ Field component         : X
+ Complex                 : Real Part
+ Result Value            : 1D Plot of Field Values
+
+
+Result Data:
+============
+
+ NData Points = 2001
+
+ Max. value   =   5.5448E+03 at (        1.06/           0/           0)
+ Min. value   =  -5.1401E+03 at (        1.06/        41.6/           0)
+ Mean value   =   2.8762E+02
+ Deviation    =            2
+
+ Integral     =   5.7553E+01
+ Volume (Unit)=   2.0010E+02 mm^1
+ Volume (SI)  =   2.0010E-01 m^1
+
